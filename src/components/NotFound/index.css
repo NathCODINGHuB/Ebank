@@ -1,0 +1,9 @@
+.NotFoundContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.NotFoundImg {
+  width: 300px;
+}
